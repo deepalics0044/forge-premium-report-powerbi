@@ -1,5 +1,4 @@
-# 
-This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your React application.
+ Embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your React application.
 
 ## Quick Start
 
